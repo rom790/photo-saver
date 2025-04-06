@@ -1,0 +1,28 @@
+# --- Бинарные файлы ---
+*.exe
+*.bin
+*.dll
+*.so
+*.a
+*.lib
+*.out
+*.o
+*.obj
+*.pyc
+*.class
+*.jar
+*.war
+*.rar
+*.zip
+*.7z
+*.tar
+*.gz
+*.tgz
+*.log
+*.sqlite
+*.sqlite3
+*.db
+
+
+# --- Папка VS Code ---
+.vscode/
