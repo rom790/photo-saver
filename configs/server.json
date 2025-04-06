@@ -1,0 +1,8 @@
+
+{
+    "addr" : "localhost:8081",
+    "store": {
+        "databaseUrl": "./my-db.db"
+    }
+    
+}
